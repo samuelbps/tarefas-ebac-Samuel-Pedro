@@ -1,0 +1,18 @@
+1- Abrir o olho e levantar da cama.
+2- Descer as escadas e ir para a cozinha
+3- Olhar na cesta de pães.
+4- Se tiver pães
+   1- pegar o pão
+   2- fatiar o pão
+   3- colocar muçarela
+   4- esquentar o pao na torradeira
+   5- comer o pão
+5- Se não tiver pães
+   1- ir comprar pães
+   2- voltar pra casa
+   3- pegar o pão na sacola
+   4- fatiar o pão
+   5- colocar muçarela
+   6- esquentar o pao na torradeira
+   7- comer o pão
+    
