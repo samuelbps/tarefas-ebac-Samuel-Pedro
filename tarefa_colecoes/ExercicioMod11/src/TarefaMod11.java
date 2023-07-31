@@ -26,7 +26,7 @@ public class TarefaMod11 {
         lista.add("João");
         lista.add("Lucas");
         lista.add("Amanda");
-        Arrays.toString(lista.toString().split(","));
+        System.out.println("-------TAREFA PARTE 1----------");
         System.out.println("Lista não ordenada: " + lista);
         Collections.sort(lista);
         System.out.println("Lista ordenada: " + lista + "");
@@ -60,6 +60,7 @@ public class TarefaMod11 {
         pessoas.add(b);
         pessoas.add(c);
         pessoas.add(d);
+        System.out.println("------TAREFA PARTE DOIS--------");
         System.out.println(pessoas);
         Collections.sort(pessoas);
         System.out.println(pessoas + "\n");
@@ -75,7 +76,7 @@ public class TarefaMod11 {
 
         }
         System.out.println("GRUPO FEMININO");
-        System.out.println(feminino.split(","));
+        System.out.println(feminino);
         System.out.println("GRUPO MASCULINO");
         System.out.println(masculino);
 
