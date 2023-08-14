@@ -9,7 +9,11 @@ public class TarefaMod12 {
     }
 
     private static void exercicio() {
-        String pessoas = "Julia-F,Marcio-M,Amanda-F, Pedro-M";
+        Scanner input = new Scanner(System.in);
+
+        System.out.println("Digite o nome e o sexo separados por - e por ,:");
+        String  pessoas = input.nextLine();
+
         String[] parts = pessoas.split(",");
         String feminino = "";
         String masculino = "";
